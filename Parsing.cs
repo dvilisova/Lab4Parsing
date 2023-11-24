@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab4Parsing
+namespace RabotaSBDLib
 {
     using System;
     using System.Collections.Generic;
